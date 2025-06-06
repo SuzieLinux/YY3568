@@ -1,0 +1,7 @@
+>=x11-libs/libxkbcommon-1.8.0 X
+>=sys-kernel/installkernel-50 dracut
+>=www-servers/apache-2.4.63-r1 apache2_modules_auth_digest
+>=app-crypt/gcr-3.41.1-r2:0 gtk
+>=dev-libs/libdbusmenu-16.04.0-r2 gtk3
+>=app-text/poppler-9999 cairo
+>=gnome-base/gvfs-1.52.3-r1 udisks
