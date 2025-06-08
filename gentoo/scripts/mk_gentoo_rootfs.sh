@@ -1,6 +1,6 @@
 #!/bin/bash
 #
-# Script to create Archlinux rootfs.ext4 for the pocketbeagle2 board
+# Script to create Gentoo rootfs.ext4 for the YY3568 board
 
 # Copyright (C) 2025 Michel Catudal
 # Michel Catudal <michelcatudal@gmail.com>
